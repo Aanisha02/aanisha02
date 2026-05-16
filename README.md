@@ -1,4 +1,4 @@
-# Hi there, I'm Aanisha Newaz 👋
+# Hi there, I'm Aanisha 👋
 
 I’m a thesis-based MSc Computer Science student at Toronto Metropolitan University, researching the detection of LLM-generated misinformation and the robustness of AI systems. 
 
