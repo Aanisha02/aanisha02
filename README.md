@@ -2,8 +2,6 @@
 
 I’m a thesis-based MSc Computer Science student at Toronto Metropolitan University, researching the detection of LLM-generated misinformation and the robustness of AI systems. 
 
-I enjoy combining research with implementation — whether that means experimenting with transformer embeddings or building tools that make research workflows more efficient.
-
 Most of my recent work involves data visualization and storytelling, AI-generated news analysis, and evaluation pipelines using TensorFlow and PyTorch.
 
 ### My current interests are:
