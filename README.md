@@ -44,5 +44,5 @@ Interested in NLP, recommendation systems, AI evaluation, and practical ML syste
 ---
 
 ## Reach Me
-- GitHub: [@Aansiha02](https://github.com/mohammednewaz)
+- GitHub: [@Aanisha02](https://github.com/aanisha02)
 - LinkedIn: [Aanisha Newaz](https://www.linkedin.com/in/aanisha-newaz-5502131a9/)
