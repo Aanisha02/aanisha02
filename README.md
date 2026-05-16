@@ -6,7 +6,7 @@ I enjoy combining research with implementation — whether that means experiment
 
 Most of my recent work involves data visualization and storytelling, AI-generated news analysis, and evaluation pipelines using TensorFlow and PyTorch.
 
-My current interests are:
+### My current interests are:
 Researching LLM-generated text detection using metric learning and semantic similarity  
 Exploring the robustness of models on AI-generated news datasets and out-of-domain evaluation  
 Interested in NLP, recommendation systems, AI evaluation, and practical ML systems  
